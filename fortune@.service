@@ -1,0 +1,9 @@
+[Unit]
+Description=Fortune quotes
+
+[Service]
+ExecStart=/usr/games/fortune
+StandardOutput=socket
+DynamicUser=yes
+ProtectHome=true
+PrivateUsers=true
