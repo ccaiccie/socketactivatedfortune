@@ -1,7 +1,3 @@
-Here’s a **README** for the program you’ve set up using **systemd socket activation** with the `fortune` command. This README explains how the setup works, the components involved, and how to test it.
-
----
-
 # Fortune Quotes Service with Systemd Socket Activation
 
 ## Overview
