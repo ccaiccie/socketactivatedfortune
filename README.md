@@ -90,6 +90,3 @@ sudo journalctl -xeu fortune@.service
 ## Conclusion
 This systemd setup allows you to serve random fortune quotes on demand whenever a client connects to port 17. This lightweight setup ensures that resources are only used when necessary and offers enhanced security through systemd's sandboxing features.
 
----
-
-Let me know if you need any further customization or details for your project!
