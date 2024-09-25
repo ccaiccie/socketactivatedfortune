@@ -1,0 +1,9 @@
+[Unit]
+Description=Scoket to start fortune
+
+[Socket]
+ListenStream=17
+Accept=yes
+
+[Install]
+WantedBy=sockets.target
